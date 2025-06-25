@@ -1,2 +1,1 @@
-# Retail-Dashboard-PowerBI
-Retail sales analysis dashboard built using Power BI
+This project was completed as part of a learning course offered by Tata Group on retail analytics and business intelligence.
